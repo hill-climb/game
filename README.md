@@ -1,2 +1,29 @@
-# game
-A web3 clone of Hill Climb powered by Unity, ThirdWeb GamingKit and ContractKit
+# Hill Climb ThirdWeb
+
+A web3 clone of Hill Climb powered by Unity, ThirdWeb GamingKit and ContractKit.
+
+## Features
+
+- Four levels.
+- Four cars.
+
+## Requirements
+
+- Unity version `2021.3.15f1`.
+
+## Build
+
+- Create a new unity project.
+- Import `Assets`, `packages` and `ProjectSettings` folders into your project.
+
+__TODO: add screenshots.__
+
+## Feedback
+
+Have questions? Hit me up on twitter: [@wiseaidev](http://twitter.com/wiseaidev).
+
+Fixes or feature additions? Send a pull request, happy to integrate them!
+
+## License
+
+This project and the accompanying materials are made available under the terms and conditions of the [`MIT LICENSE`](https://github.com/hill-climb/game/blob/main/LICENSE).
