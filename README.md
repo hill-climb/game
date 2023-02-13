@@ -18,6 +18,12 @@ A web3 clone of Hill Climb powered by Unity, ThirdWeb GamingKit and ContractKit.
 
 __TODO: add screenshots.__
 
+## Demos
+
+- [IPFS](https://gateway.ipfscdn.io/ipfs/QmWCGXhWmrPuJrCeCPiDXvfua32LkguDWMkFXpg18A2hJQ)
+- [Github Pages](https://hill-climb.github.io/build/)
+- [Netlify](https://thirdweb-hill-climb.netlify.app/)
+
 ## Feedback
 
 Have questions? Hit me up on twitter: [@wiseaidev](http://twitter.com/wiseaidev).
